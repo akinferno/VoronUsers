@@ -1,0 +1,7 @@
+ADDED A FOLDER FOR CONFIGURATION FILES
+
+Steps
+1) Save in configuration folder using the name you like. Mine is TheFilter.cfg. 
+2) Add [include TheFilter.cfg] to your printer.cfg file.
+3) Open file and edit the pin used on your MCU. 
+4) Save and restart. Enjoy
